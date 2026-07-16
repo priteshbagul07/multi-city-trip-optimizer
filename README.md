@@ -1,6 +1,6 @@
 # 🗺️ RouteForge — Multi-City Trip Optimizer
 ### Design And Analysis Of Algorithm Mini Project | Floyd-Warshall Algorithm | Full-Stack (React + Node.js + MongoDB)
-### Pritesh Bagul - 123B1D038
+### Pritesh P. Bagul - 123B1D038
 ---
 
 ## 📁 Folder Structure
